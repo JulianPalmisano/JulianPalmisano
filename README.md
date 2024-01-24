@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianPalmisano
 - 👀 I’m interested in Software Developement and Linguistics
-- 🌱 I’m currently learning C++ through SNHU's Computer Science
+- 🌱 I’m currently learning C++ and C# through SNHU's Computer Science
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me @ ... julp4lm@gmail.com
 
